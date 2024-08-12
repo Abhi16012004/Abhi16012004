@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rawat</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=big-leu&label=Profile%20views&color=0e75b6&style=flat" alt="big-leu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhi16012004&label=Profile%20views&color=0e75b6&style=flat" alt="big-leu" /> </p>
 
 
 - 🌱 I’m currently learning **Next JS, Fastapi and Typescipt**
